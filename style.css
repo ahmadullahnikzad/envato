@@ -1,0 +1,11 @@
+.header,
+.not {
+  padding: 100px inherit;
+  min-height: 90vh;
+}
+
+svg {
+  height: 25px;
+  fill: currentColor;
+}
+/*# sourceMappingURL=style.css.map */
